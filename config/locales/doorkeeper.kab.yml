@@ -36,7 +36,7 @@ kab:
         application: Asnas
         callback_url: URL n tririt n wawal
         delete: Kkes
-        empty: Ulac γur-ek·em isnasen.
+        empty: Ulac ɣur-k·m isnasen.
         name: Isem
         new: Asnas amaynut
         show: Ẓer
@@ -57,7 +57,7 @@ kab:
       new:
         title: Tlaq tsiregt
       show:
-        title: Nγel tangalt n wurag sakkin senteḍ-itt deg usnas.
+        title: Nɣel tangalt n wurag sakkin senteḍ-itt deg usnas.
     authorized_applications:
       buttons:
         revoke: Ḥwi
